@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694894774 source:e:\code_blocks_workspace\nelio_alves_c\usando_debugger\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
