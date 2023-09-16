@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694646379 source:e:\code_blocks_workspace\3_saida_dados\main.c
+	<stdio.h>
+	<stdlib.h>
+
